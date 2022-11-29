@@ -15,7 +15,7 @@ cd mars
 
 ignite chain serve
 ```
-
+ignite scaffold chain cryptobuks/uniingo
 where:
 
 * github.com represents a local development repository
